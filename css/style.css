@@ -717,3 +717,8 @@ a:focus {
   color: #ffffff;
 }
 /*# sourceMappingURL=style.css.map */
+
+.center{
+  text-align: center;
+  margin: 0 auto;
+}
